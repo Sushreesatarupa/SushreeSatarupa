@@ -2,7 +2,7 @@
 title: Sushree Satarupa 
 githubUsername: 'Sushreesatarupa'
 ---
-<img align="left" alt="Sushree's LinkdeIn" width="220px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/satarupa-removebg-preview.png" />
+<img align="left" alt="Sushree's LinkdeIn" width="160px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/satarupa-removebg-preview.png" />
 
 ### Hey 👋🏽, I'm [Sushree](https://Sushreesatarupa.co) 
 
