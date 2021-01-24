@@ -16,7 +16,7 @@ githubUsername: 'Sushreesatarupa'
 <a href="https://www.reddit.com/user/SatarupaSushree/">
   <img align="left" alt="Sushree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo">via GIPHY</a></p>
 <br />
 <br />
 
