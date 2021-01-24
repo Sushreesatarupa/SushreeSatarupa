@@ -48,7 +48,7 @@ Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Sushree's github stats](https://github-readme-stats.Sushreesatarupa.vercel.app/api?username=Sushreesatarupa&show_icons=true&hide_border=true&theme=radical")
+[![Sushree's github stats](https://github-readme-stats.Sushreesatarupa.vercel.app/api?username=Sushreesatarupa&show_icons=true&hide_border=true&theme=radical")
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushreesatarupa&theme=onedark)](https://github.com/Sushreesatarupa/github-readme-stats)
