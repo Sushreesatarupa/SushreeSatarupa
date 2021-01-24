@@ -4,6 +4,7 @@ githubUsername: 'Sushreesatarupa'
 ---
 
 ### Hey 👋🏽, I'm [Sushree!](https://Sushreesatarupa.co) 
+<img align="right" alt="Sushree's LinkdeIn" width="220px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/satarupa-removebg-preview.png" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
 <br/>
