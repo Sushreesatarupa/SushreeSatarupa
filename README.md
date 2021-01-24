@@ -39,9 +39,9 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/docker/js.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -53,10 +53,7 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
 
 ![Sushree's github stats](https://github-readme-stats.Sushreesatarupa.vercel.app/api?username=Sushreesatarupa&show_icons=true&hide_border=true&theme=radical")
 
-<!--
-<a href="https://github.com/devangi2000/mnist-flask">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
-</a> -->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushreesatarupa&theme=onedark)](https://github.com/Sushreesatarupa/github-readme-stats)
 
 ⭐️ From [Sushreesatarupa](https://github.com/Sushreesatarupa)
