@@ -13,7 +13,7 @@ githubUsername: 'Sushreesatarupa'
 <a href="https://www.instagram.com/satarupa_ss/">
   <img align="left" alt="Sushree's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/devangi2000/">
+<a href="https://www.reddit.com/user/SatarupaSushree/">
   <img align="left" alt="Sushree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -22,6 +22,7 @@ githubUsername: 'Sushreesatarupa'
 
 Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS, ICS Mentor. 
   <img align="right" alt="GIF" src="https://giphy.com/gifs/ekjmhJUGHJm7FC4Juo/html5">
+   <iframe align="right" src="https://giphy.com/embed/ekjmhJUGHJm7FC4Juo" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-software-engineering-ekjmhJUGHJm7FC4Juo"></a></p>
   
 **Talking about Me:**
 
