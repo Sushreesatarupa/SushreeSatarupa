@@ -23,8 +23,8 @@ githubUsername: 'Sushreesatarupa'
 <br />
 <br />
 
-Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate about Artificial Intelligence 🚀 . I'm from India and am currently looking to collaborate on ML/DL projects and would love to work with like-minded individuals. 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/OAglYDNHPx5qo/giphy.gif" />
+Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS, ICS Mentor. 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/ekjmhJUGHJm7FC4Juo/giphy.gif" />
   
 **Talking about Me:**
 
