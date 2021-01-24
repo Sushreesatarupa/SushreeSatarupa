@@ -20,7 +20,7 @@ githubUsername: 'Sushreesatarupa'
 <br />
 
 Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS, ICS Mentor. 
-  ![](girl.gif)
+  ![](computer.gif)
 
    
 **Talking about Me:**
