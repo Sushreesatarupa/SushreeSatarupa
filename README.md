@@ -8,7 +8,7 @@ githubUsername: 'Sushreesatarupa'
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
-<br/>
+<br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   <img align="left" alt="Sushree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,6 +20,7 @@ githubUsername: 'Sushreesatarupa'
 </a>
 <br />
 <br />
+<br/>
 
 Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS, ICS Mentor. 
   <img align="right" alt="Sushree's Twitter" width="280px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/computer.gif" />
