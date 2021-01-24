@@ -3,21 +3,21 @@ title: Sushree Satarupa
 githubUsername: 'Sushreesatarupa'
 ---
 
-### Hey 👋🏽, I'm [Sushree!](https://Sushreesatarupa.github.io) 
+### Hey 👋🏽, I'm [Sushree!](https://Sushreesatarupa.co) 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
 <br/>
-<a href="https://www.linkedin.com/in/devangipurkayastha/">
-  <img align="left" alt="Devangi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
+  <img align="left" alt="Sushree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/devangi___/">
-  <img align="left" alt="Devangi's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/satarupa_ss/">
+  <img align="left" alt="Sushree's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/devangi2000/">
-  <img align="left" alt="Devangi's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Sushree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.hackerrank.com/devangipurkayas1/">
-  <img align="left" alt="Devangi's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Sushree's Devpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devpost.svg" />
 </a>
 
 <br />
