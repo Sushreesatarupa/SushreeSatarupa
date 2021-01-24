@@ -2,8 +2,9 @@
 title: Sushree Satarupa 
 githubUsername: 'Sushreesatarupa'
 ---
-<img align="right" alt="Sushree's LinkdeIn" width="220px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/satarupa-removebg-preview.png" />
-### Hey 👋🏽, I'm [Sushree!](https://Sushreesatarupa.co) 
+<img alt="Sushree's LinkdeIn" width="220px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/satarupa-removebg-preview.png" />
+
+### Hey 👋🏽, I'm ![Sushree](https://Sushreesatarupa.co) 
 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
