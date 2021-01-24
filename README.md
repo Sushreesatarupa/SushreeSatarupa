@@ -28,12 +28,12 @@ Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS,
   
 **Talking about Me:**
 
-- 💻 I’m currently working on ML Projects and am looking for collaborators;
-- 🌱 I’m currently learning Computer Vision; 
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💻 I’m currently working on Web Development Projects;
+- 🌱 I’m currently learning DSA; 
+- 🤔 I’m looking for help with DSA ;
 - 💬 Ask me about anything, I'd try my best to help;
 - ⚡️ Fun-Fact: I love Grey's Anatomy, coffee, hot chocolate and almost everything with a dark theme!
-- 📫 How to reach me: devangidp2000@gmail.com;
+- 📫 How to reach me: sushreesatarupa.ss@gmail.com;
 <!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
 **Languages and Tools:**  
@@ -41,7 +41,7 @@ Hi, I'm Sushree Sararupa, CSE Sophomore at NIT Rourkela, President at SHECODERS,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/js/js.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/jscript/jscript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
