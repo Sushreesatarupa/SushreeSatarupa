@@ -16,9 +16,6 @@ githubUsername: 'Sushreesatarupa'
 <a href="https://www.reddit.com/user/devangi2000/">
   <img align="left" alt="Sushree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.hackerrank.com/devangipurkayas1/">
-  <img align="left" alt="Sushree's Devpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/devpost.svg" />
-</a>
 
 <br />
 <br />
