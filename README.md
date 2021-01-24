@@ -51,13 +51,13 @@ Hi, I'm Devangi Purkayastha, a Machine Learning novice and am very passionate ab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Devangi's github stats](https://github-readme-stats.devangi2000.vercel.app/api?username=devangi2000&show_icons=true&hide_border=true&theme=radical")
+![Sushree's github stats](https://github-readme-stats.Sushreesatarupa.vercel.app/api?username=Sushreesatarupa&show_icons=true&hide_border=true&theme=radical")
 
 <!--
 <a href="https://github.com/devangi2000/mnist-flask">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=devangi2000&repo=mnist-flask" />
 </a> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devangi2000&theme=onedark)](https://github.com/devangi2000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushreesatarupa&theme=onedark)](https://github.com/Sushreesatarupa/github-readme-stats)
 
-⭐️ From [devangi2000](https://github.com/devangi2000)
+⭐️ From [Sushreesatarupa](https://github.com/Sushreesatarupa)
 
