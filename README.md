@@ -28,12 +28,12 @@ Hi, I'm Sushree Satarupa, CSE Sophomore at NIT Rourkela, President at SHECODERS,
    
 **Talking about Me:**
 
-- 💻 I’m currently working on Web Development Projects;
-- 🌱 I’m currently learning DSA; 
-- 🤔 I’m looking for help with DSA ;
-- 💬 Ask me about anything, I'd try my best to help;
-- ⚡️ Fun-Fact: I love Grey's Anatomy, coffee, hot chocolate and almost everything with a dark theme!
-- 📫 How to reach me: sushreesatarupa.ss@gmail.com;
+- I’m currently working on Web Development and Flutter Projects;
+- I’m currently learning DSA; 
+- I’m looking for help with DSA ;
+- Ask me about anything, I'd try my best to help;
+- Fun-Fact: I love Grey's Anatomy, coffee, hot chocolate and almost everything with a dark theme!
+- How to reach me: sushreesatarupa.ss@gmail.com;
 <!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
 
 **Languages and Tools:**  
