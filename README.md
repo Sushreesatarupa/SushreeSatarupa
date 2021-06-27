@@ -1,7 +1,7 @@
 ---
 title: Sushree Satarupa 
 githubUsername: 'Sushreesatarupa'
-portfolio: [sushreesatarupa.co](https://Sushreesatarupa.co)
+
 ---
 <img align="left" alt="Sushree's LinkdeIn" width="160px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
 
