@@ -5,8 +5,11 @@ githubUsername: 'Sushreesatarupa'
 ---
 <img align="left" alt="Sushree's LinkdeIn" width="160px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
 
-### Hey 👋🏽, I'm [Sushree](https://Sushreesatarupa.co) 
+### Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm [Sushree](https://Sushreesatarupa.co) 
 
+
+
+![](https://activity-graph.herokuapp.com/graph?username=Sushreesatarupa&theme=react-dark&hide_border=true&area=true)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
 <br/><br/>
