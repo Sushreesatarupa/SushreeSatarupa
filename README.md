@@ -56,8 +56,7 @@ Hi, I'm Sushree Satarupa, CSE Sophomore at NIT Rourkela, President at SHECODERS,
 Sushree's github stats
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sushreesatarupa&theme=onedark)](https://github.com/Sushreesatarupa/github-readme-stats)
-<br>
+<p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=Sushreesatarupa&count_private=true&theme=radical"/></p>
 
 
 ⭐️ From [Sushreesatarupa](https://github.com/Sushreesatarupa)
