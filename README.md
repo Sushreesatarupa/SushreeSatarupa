@@ -27,7 +27,8 @@ githubUsername: 'Sushreesatarupa'
 <br/>
 
 Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at [NIT Rourkela]()!
-- Founder and President at [SHECODERS]()
+- Founder and President at [SHECODERS](https://shecoders.github.io/Shecoders_NITR.github.io/)
+   - Shecoders, women coding community of NIT Rourkela - A Step Towards Diversity in Technology
 - Student mentor at [ICS]()
 - [Microsoft Learn Student Ambassador]()
 - Content Writer at [Hashnode]()
