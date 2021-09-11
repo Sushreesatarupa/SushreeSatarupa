@@ -54,9 +54,6 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![14196-ui-illustration](https://user-images.githubusercontent.com/64991656/132955449-a7bf3aca-d41c-4d07-a28d-369495490c9d.gif)
-
-
 
 <p align='center'><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sushreesatarupa&count_private=true&theme=radical"/></p>
 
