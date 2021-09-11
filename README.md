@@ -7,20 +7,16 @@ githubUsername: 'Sushreesatarupa'
 
 ### Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm [Sushree](https://Sushreesatarupa.co) 
 
-
-
-![](https://activity-graph.herokuapp.com/graph?username=Sushreesatarupa&theme=react-dark&hide_border=true&area=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
 <br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  <img align="left" alt="Sushree's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sushree's LinkdeIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/satarupa_ss/">
-  <img align="left" alt="Sushree's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sushree's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/SatarupaSushree">
-  <img align="left" alt="Sushree's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sushree's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
 <br />
