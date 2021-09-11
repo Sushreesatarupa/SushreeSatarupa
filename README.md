@@ -33,17 +33,15 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - Content Writer at [Hashnode]()
 - [YouTube]() Tech content creator 
 - Artist at [Akriti]()
-  <img align="right" alt="Sushree's Twitter" width="280px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/computer.gif" />
 
    
 **Talking about Me:**
 
-- I’m currently working on Web Development and Flutter Projects;
-- I’m currently learning DSA; 
-- Ask me about anything, I'd try my best to help;
-- Fun-Fact: I love Grey's Anatomy, coffee, hot chocolate and almost everything with a dark theme!
-- How to reach me: sushreesatarupa.ss@gmail.com;
-<!--- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)-->
+- I'm currently working on Web Development Projects and learning DSA
+- I'm writing Tech blogs to help others
+- I'm creating Tech content on YouTube (Subscribe me on [YouTube]())
+- I'm mentoring CSE students (Join our [Discord Server]()) 
+- Ask me about anything; I'd try my best to help
 
 **Languages and Tools:**  
 
