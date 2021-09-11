@@ -49,7 +49,9 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - I'm mentoring CSE students (Join our [Discord Server](https://discord.gg/vQfEuVnGe3)) 
 - Ask me about anything; I'd try my best to help
 
-**Languages and Tools:**  
+**Languages and Tools:**
+
+![image](https://user-images.githubusercontent.com/64991656/132955173-104930c2-70c3-4205-a218-b5957384e940.png)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
