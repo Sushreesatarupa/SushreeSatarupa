@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/64991656/132955552-321819ef-5e35-4e83-80a3-52c60266dc51.png width="100vw")
+<img alt="Sushree's LinkdeIn" width="100vw" src="https://media-exp1.licdn.com/dms/image/C4D16AQGTKW4JdyxUfw/profile-displaybackgroundimage-shrink_200_800/0/1630439924088?e=1636588800&v=beta&t=lDj1K8_SpwfLJ_Z7R9Mg74qg9FL7kyKfDJZgUAXaSe8" />
 
 ---
 title: Sushree Satarupa 
