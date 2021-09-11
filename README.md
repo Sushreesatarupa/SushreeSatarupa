@@ -29,19 +29,24 @@ githubUsername: 'Sushreesatarupa'
 Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at [NIT Rourkela]()!
 - Founder and President at [SHECODERS](https://shecoders.github.io/Shecoders_NITR.github.io/)
    - Shecoders, women coding community of NIT Rourkela - A Step Towards Diversity in Technology
-- Student mentor at [ICS]()
-- [Microsoft Learn Student Ambassador]()
-- Content Writer at [Hashnode]()
-- [YouTube]() Tech content creator 
-- Artist at [Akriti]()
+- Student mentor at [ICS](https://ics.nitrkl.ac.in/)
+   - Institute Counselling Services, NIT Rourkela is a noble initiative which deals with various important aspects of a student’s life. 
+   - It addresses Academic, Financial, Mental and Socio-cultural issues, ensuring a seamless transition from home to hostel life for the freshmen and making life at NITR more enjoyable.
+- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
+   - The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. 
+   - The MSP program enhances students' employability by offering training in skills not usually taught in academia, including knowledge of Microsoft technologies.
+- Content Writer at [Hashnode](https://satarupa.hashnode.dev/)
+   - Blogs on Programming languages, Hackathons, DSA and Tech
+- [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA) Tech content creator 
+- Artist at [Akriti](https://www.instagram.com/akriti_nitr/?hl=en)
 
    
 **Talking about Me:**
 
 - I'm currently working on Web Development Projects and learning DSA
 - I'm writing Tech blogs to help others
-- I'm creating Tech content on YouTube (Subscribe me on [YouTube]())
-- I'm mentoring CSE students (Join our [Discord Server]()) 
+- I'm creating Tech content on YouTube (Subscribe me on [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA))
+- I'm mentoring CSE students (Join our [Discord Server](https://discord.gg/vQfEuVnGe3)) 
 - Ask me about anything; I'd try my best to help
 
 **Languages and Tools:**  
