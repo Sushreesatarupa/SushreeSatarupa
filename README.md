@@ -58,7 +58,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 
 
 
-<p align='center'><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="50%" src="https://github-readme-stats.vercel.app/api?username=Sushreesatarupa&count_private=true&theme=radical"/></p>
+<p align='center'><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="parwin akhtari" />&nbsp; &nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sushreesatarupa&count_private=true&theme=radical"/></p>
 
 
 ⭐️ From [Sushreesatarupa](https://github.com/Sushreesatarupa)
