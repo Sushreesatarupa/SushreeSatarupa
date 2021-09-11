@@ -26,7 +26,13 @@ githubUsername: 'Sushreesatarupa'
 <br />
 <br/>
 
-Hi, I'm Sushree Satarupa, CSE Prefinal yr at NIT Rourkela, President at SHECODERS, ICS Mentor and Microsoft Student Ambassador.
+Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at [NIT Rourkela]()!
+- Founder and President at [SHECODERS]()
+- Student mentor at [ICS]()
+- [Microsoft Learn Student Ambassador]()
+- Content Writer at [Hashnode]()
+- [YouTube]() Tech content creator 
+- Artist at [Akriti]()
   <img align="right" alt="Sushree's Twitter" width="280px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/computer.gif" />
 
    
