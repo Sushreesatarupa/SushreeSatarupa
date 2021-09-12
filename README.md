@@ -31,7 +31,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
    - The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. 
    - The MSP program enhances students' employability by offering training in skills not usually taught in academia, including knowledge of Microsoft technologies.
-- **Content Writer** at [Hashnode](https://satarupa.hashnode.dev/)
+- **Content Writer** and Ambassador at [Hashnode](https://satarupa.hashnode.dev/)
    - Blogs on Programming languages, Hackathons, DSA and Tech
 - [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA) Tech content creator 
 - **Artist** at [Akriti](https://www.instagram.com/akriti_nitr/?hl=en)
