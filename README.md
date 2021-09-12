@@ -56,6 +56,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+---
 
 ![animation_500_ktgz0xek](https://user-images.githubusercontent.com/64991656/132981234-34665615-10f6-4367-b859-1117d8ac4a3a.gif)
 ![animation_500_ktgzjndn](https://user-images.githubusercontent.com/64991656/132981568-b93db24e-58c6-4275-931f-fa1ce16cbe24.gif)
