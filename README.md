@@ -1,5 +1,4 @@
-
-<img alt="Sushree's LinkdeIn" width="100%" src="https://user-images.githubusercontent.com/64991656/132982560-b16e261b-e3bf-42ac-860b-11ae7337719f.png" />
+<img alt="Sushree's LinkdeIn" width="100%" src="https://user-images.githubusercontent.com/64991656/132982590-c3717f08-a0af-401c-88e2-48a323e56d15.png" />
 
 <img align="left" alt="Sushree's LinkdeIn" width="200px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
 
