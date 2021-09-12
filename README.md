@@ -1,4 +1,5 @@
 
+
 <img alt="Sushree's LinkdeIn" width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGTKW4JdyxUfw/profile-displaybackgroundimage-shrink_200_800/0/1630439924088?e=1636588800&v=beta&t=lDj1K8_SpwfLJ_Z7R9Mg74qg9FL7kyKfDJZgUAXaSe8" />
 
 <img align="left" alt="Sushree's LinkdeIn" width="160px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
@@ -57,7 +58,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 
 
 ![animation_500_ktgz0xek](https://user-images.githubusercontent.com/64991656/132981234-34665615-10f6-4367-b859-1117d8ac4a3a.gif)
-![animation_500_ktgz0xek](https://user-images.githubusercontent.com/64991656/132981246-0af44a8c-bc7d-4101-8dfa-bc832540c237.gif)
+![9403-woman](https://user-images.githubusercontent.com/64991656/132981527-dcbf0a59-7564-49a9-a14c-5a5f2c65aacc.gif)
 
 <p align='center'><img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="Sushree Satarupa" />&nbsp; &nbsp;<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sushreesatarupa&count_private=true&theme=radical"/></p>
 
