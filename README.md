@@ -2,7 +2,7 @@
 
 <img alt="Sushree's LinkdeIn" width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGTKW4JdyxUfw/profile-displaybackgroundimage-shrink_200_800/0/1630439924088?e=1636588800&v=beta&t=lDj1K8_SpwfLJ_Z7R9Mg74qg9FL7kyKfDJZgUAXaSe8" />
 
-<img align="left" alt="Sushree's LinkdeIn" width="160px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
+<img align="left" alt="Sushree's LinkdeIn" width="40%" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
 
 ### Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm [Sushree](https://Sushreesatarupa.co) 
 
