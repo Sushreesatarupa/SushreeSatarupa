@@ -36,6 +36,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA) Tech content creator 
 - **Artist** at [Akriti](https://www.instagram.com/akriti_nitr/?hl=en)
 
+---
    
 **Talking about Me:**
 
@@ -44,6 +45,8 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - I'm creating Tech content on YouTube (Subscribe me on [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA))
 - I'm mentoring CSE students (Join our [Discord Server](https://discord.gg/vQfEuVnGe3)) 
 - Ask me about anything; I'd try my best to help
+
+---
 
 **Languages and Tools:**
 
