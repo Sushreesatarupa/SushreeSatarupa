@@ -10,13 +10,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge)
 <br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  <img align="left" alt="Sushree's LinkdeIn" width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sushree's LinkdeIn" width="8%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/satarupa_ss/">
-  <img align="left" alt="Sushree's Instagram" width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Sushree's Instagram" width="8%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/SatarupaSushree">
-  <img align="left" alt="Sushree's Twitter" width="10%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sushree's Twitter" width="8%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <br />
 <br />
