@@ -1,6 +1,5 @@
 
-
-<img alt="Sushree's LinkdeIn" width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQGTKW4JdyxUfw/profile-displaybackgroundimage-shrink_200_800/0/1630439924088?e=1636588800&v=beta&t=lDj1K8_SpwfLJ_Z7R9Mg74qg9FL7kyKfDJZgUAXaSe8" />
+<img alt="Sushree's LinkdeIn" width="100%" src="https://user-images.githubusercontent.com/64991656/132982560-b16e261b-e3bf-42ac-860b-11ae7337719f.png" />
 
 <img align="left" alt="Sushree's LinkdeIn" width="200px" src="https://github.com/Sushreesatarupa/SushreeSatarupa/blob/main/circle-cropped.png" />
 
