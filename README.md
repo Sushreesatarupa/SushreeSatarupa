@@ -67,7 +67,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
  <img align="right" width="45%" src="https://user-images.githubusercontent.com/64991656/132981568-b93db24e-58c6-4275-931f-fa1ce16cbe24.gif">
 </p>
 
-
+<br>
 
 <p align='center'>
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="Sushree Satarupa" />
