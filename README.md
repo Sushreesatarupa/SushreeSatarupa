@@ -5,7 +5,6 @@
 ### Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm [Sushree](https://Sushreesatarupa.co) 
 
 
-!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=Sushreesatarupa.visitor-badge) --!
 <br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   <img align="left" alt="Sushree's LinkdeIn" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
