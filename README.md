@@ -31,9 +31,9 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - **Content Writer** at [Hashnode](https://satarupa.hashnode.dev/) and [GFG]()
    - Blogs on Programming languages, Hackathons, DSA and Tech
 - [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA) Tech content creator 
-- [Hacktoberfest 2021](https://hacktoberfest.digitalocean.com/)
-  - [maintainer](https://github.com/Sushreesatarupa/DSA-cpp-Hacktoberfest2021)
-  - [event-organizer](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA)
+
+
+
 - **Artist** at [Akriti](https://www.instagram.com/akriti_nitr)
 - **Winner** at 15 National and International **Hackathons**
 
