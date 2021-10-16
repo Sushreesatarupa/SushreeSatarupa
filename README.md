@@ -61,6 +61,13 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 ---
+
+**Currenty Working on:**
+1. [Business Value Chain](https://github.com/Sushreesatarupa/Value-Chain)
+2. [Smart Child Toy](https://github.com/Sushreesatarupa/Good-touch--Bad-touch)
+3. [CSE-Fifth-Sem](https://github.com/Sushreesatarupa/CSE-fifth-semester)
+
+---
 <p align='center'>
  <img align="left" width="45%" src="https://user-images.githubusercontent.com/64991656/132981234-34665615-10f6-4367-b859-1117d8ac4a3a.gif">
 
