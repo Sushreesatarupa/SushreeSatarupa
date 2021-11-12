@@ -27,7 +27,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
    - The Microsoft Learn Student Ambassadors is a program to sponsor students majoring in disciplines related to technology. 
    - The MSP program enhances students' employability by offering training in skills not usually taught in academia, including knowledge of Microsoft technologies.
-- [#IamRemarkable](https://iamremarkable.withgoogle.com/)
+- [#IamRemarkable Facilitator](https://iamremarkable.withgoogle.com/)
    - #IamRemarkable is a Google initiative empowering women and other underrepresented groups to celebrate their achievements in the workplace and beyond. 
    - As an #IamRemarkable facilitator, I host workshops within my network and community.
 - **Content Writer** at [Hashnode](https://satarupa.hashnode.dev/) and [GFG]()
