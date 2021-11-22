@@ -42,6 +42,9 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 **Connect With Me:**
 
 ![5296765_camera_instagram_instagram logo_icon](https://user-images.githubusercontent.com/64991656/142930443-5b4a1630-9179-424a-97c9-3200ec88bbcb.png)
+![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
+![5296499_fb_facebook_facebook logo_icon](https://user-images.githubusercontent.com/64991656/142931220-135fbf26-df8a-4bbe-8076-0a34b47bbb3e.png)
+![3225180_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931225-b23ba5f7-7568-48d3-806e-5d09d7b2adff.png)
 
 
 ---
