@@ -7,7 +7,7 @@
 
 <br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  ![317750_linkedin_icon](https://user-images.githubusercontent.com/64991656/142932026-7d500b1f-312d-4833-8720-b068255d2a74.png)
+  ![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
 </a>
 <a href="https://www.instagram.com/satarupa_ss/">
   ![3225191_app_instagram_logo_media_popular_icon](https://user-images.githubusercontent.com/64991656/142931548-3dc8526d-7d92-45e4-b97c-6deac8da609a.png)
@@ -15,6 +15,21 @@
 <a href="https://twitter.com/SatarupaSushree">
   <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<br>
+<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
+  ![1220340_gmail_google_mail_icon](https://user-images.githubusercontent.com/64991656/142932037-59f6a2e5-9b9d-4524-b69f-b307a740c812.png)
+</a>
+<a href="https://www.instagram.com/satarupa_ss/">
+  ![5296499_fb_facebook_facebook logo_icon](https://user-images.githubusercontent.com/64991656/142931220-135fbf26-df8a-4bbe-8076-0a34b47bbb3e.png)
+</a>
+<a href="https://twitter.com/SatarupaSushree">
+  ![3225180_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931225-b23ba5f7-7568-48d3-806e-5d09d7b2adff.png)
+</a>
+
+
+
+
+
 <br />
 <br />
 <br/>
@@ -41,12 +56,7 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
    
 **Connect With Me:**
 
-![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
-![5296499_fb_facebook_facebook logo_icon](https://user-images.githubusercontent.com/64991656/142931220-135fbf26-df8a-4bbe-8076-0a34b47bbb3e.png)
-![3225180_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931225-b23ba5f7-7568-48d3-806e-5d09d7b2adff.png)
-![3225185_app_logo_media_popular_snapchat_icon](https://user-images.githubusercontent.com/64991656/142931553-3c5a4982-2273-475b-bea0-354271006a3e.png)
-![5296503_inspiration_pin_pinned_pinterest_social network_icon](https://user-images.githubusercontent.com/64991656/142932031-c46236f9-a976-423c-b710-333334b700cf.png)
-![1220340_gmail_google_mail_icon](https://user-images.githubusercontent.com/64991656/142932037-59f6a2e5-9b9d-4524-b69f-b307a740c812.png)
+
 
 
 ---
