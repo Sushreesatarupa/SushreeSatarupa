@@ -7,13 +7,13 @@
 
 <br/><br/>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  ![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
+  ![317750_linkedin_icon](https://user-images.githubusercontent.com/64991656/142937254-8505355a-94b0-4d4a-9c1c-1dbf26955259.png)
 </a>
 <a href="https://www.instagram.com/satarupa_ss/">
   ![3225191_app_instagram_logo_media_popular_icon](https://user-images.githubusercontent.com/64991656/142931548-3dc8526d-7d92-45e4-b97c-6deac8da609a.png)
 </a>
 <a href="https://twitter.com/SatarupaSushree">
-  <img align="left" alt="Sushree's Twitter" width="6%" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  ![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
 </a>
 <br>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
