@@ -33,6 +33,8 @@
 <br />
 <br />
 <br/>
+
+
 ---
 Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at [NIT Rourkela]()!
 - **Founder** and **President** at [SHECODERS](https://shecoders.github.io/Shecoders_NITR.github.io/)
@@ -51,13 +53,6 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Prefinal year at 
 - [YouTube](https://www.youtube.com/channel/UCZrPV5fhnvvG3C0m8RrIFhA) Tech content creator 
 - **Artist** at [Akriti](https://www.instagram.com/akriti_nitr)
 - **Winner** at 15 National and International **Hackathons**
-
----
-   
-**Connect With Me:**
-
-
-
 
 ---
 
