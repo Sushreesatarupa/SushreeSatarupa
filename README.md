@@ -15,7 +15,6 @@
 <a href="https://twitter.com/SatarupaSushree">
   ![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
 </a>
-<br>
 <a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
   ![1220340_gmail_google_mail_icon](https://user-images.githubusercontent.com/64991656/142932037-59f6a2e5-9b9d-4524-b69f-b307a740c812.png)
 </a>
