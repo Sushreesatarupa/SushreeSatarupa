@@ -24,10 +24,7 @@
 
 
 
-## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushreesatarupa&layout=compact&theme=algolia" alt="Sushreesatarupa" /></a> </p>
-<br />
 <br />
 
 ---
@@ -50,6 +47,11 @@ Hi, I'm **Sushree Satarupa**, Computer Science and engineering Final year at [NI
 <code><img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 
 ---
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sushreesatarupa&layout=compact&theme=algolia" alt="Sushreesatarupa" /></a> </p>
+<br />
+
 
 <p align='center'>
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sushreesatarupa&theme=radical" alt="Sushree Satarupa" />
