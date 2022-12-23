@@ -6,25 +6,24 @@
 ### Hey <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">, I'm [Sushree](https://Sushreesatarupa.co) 
 
 <br/><br/>
-<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  ![317750_linkedin_icon](https://user-images.githubusercontent.com/64991656/142937254-8505355a-94b0-4d4a-9c1c-1dbf26955259.png)
-</a>
-<a href="https://www.instagram.com/satarupa_ss/">
-  ![3225191_app_instagram_logo_media_popular_icon](https://user-images.githubusercontent.com/64991656/142931548-3dc8526d-7d92-45e4-b97c-6deac8da609a.png)
-</a>
-<a href="https://twitter.com/SatarupaSushree">
-  ![3225183_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931214-beeb2e8b-cc9a-4ab1-aa8b-5dc62b9bff21.png)
-</a>
-<a href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5/">
-  ![1220340_gmail_google_mail_icon](https://user-images.githubusercontent.com/64991656/142932037-59f6a2e5-9b9d-4524-b69f-b307a740c812.png)
-</a>
-<a href="https://www.instagram.com/satarupa_ss/">
-  ![5296499_fb_facebook_facebook logo_icon](https://user-images.githubusercontent.com/64991656/142931220-135fbf26-df8a-4bbe-8076-0a34b47bbb3e.png)
-</a>
-<a href="https://twitter.com/SatarupaSushree">
-  ![3225180_app_logo_media_popular_social_icon](https://user-images.githubusercontent.com/64991656/142931225-b23ba5f7-7568-48d3-806e-5d09d7b2adff.png)
-</a>
 
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/sushree-satarupa-4a45411a5">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/Sushreesatarupa">
+          <img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://instagram.com/satarupa_ss/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/Aladyengineer">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/sushreesatarupa">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		
+      </div>
 
 
 
