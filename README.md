@@ -29,6 +29,7 @@
 
 ---
 Hi, I'm **Sushree Satarupa**, Computer Science and engineering Final year at [NIT Rourkela]()!
+- **Software Developer** at **Texas Instruments**.
 - **Founder** and **President** at [SHECODERS](https://shecoders.github.io/Shecoders_NITR.github.io/)
 - **Student mentor** at [ICS](https://ics.nitrkl.ac.in/)
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/)
